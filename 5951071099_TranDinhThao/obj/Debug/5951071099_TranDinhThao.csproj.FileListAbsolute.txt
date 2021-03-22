@@ -1,0 +1,30 @@
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.exe.config
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.exe
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csprojAssemblyReference.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\_5951071099_TranDinhThao.Form1.resources
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\_5951071099_TranDinhThao.Properties.Resources.resources
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csproj.GenerateResource.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csproj.CoreCompileInputs.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.exe
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\5951071099_TranDinhThao\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.exe.config
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.exe
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.pdb
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csprojAssemblyReference.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\_5951071099_TranDinhThao.Form1.resources
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\_5951071099_TranDinhThao.Properties.Resources.resources
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csproj.GenerateResource.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csproj.CoreCompileInputs.cache
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.exe
+D:\HOCTAP\BAITAP\Lập trình api\Buổi 4\VD2\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.pdb
+D:\HOCTAP\Winform\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.exe.config
+D:\HOCTAP\Winform\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.exe
+D:\HOCTAP\Winform\5951071099_TranDinhThao\bin\Debug\5951071099_TranDinhThao.pdb
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csprojAssemblyReference.cache
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\_5951071099_TranDinhThao.Form1.resources
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\_5951071099_TranDinhThao.Properties.Resources.resources
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csproj.GenerateResource.cache
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.csproj.CoreCompileInputs.cache
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.exe
+D:\HOCTAP\Winform\5951071099_TranDinhThao\obj\Debug\5951071099_TranDinhThao.pdb
